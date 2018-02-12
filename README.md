@@ -6,6 +6,4 @@
 
 - /redis: Connection Pool to Redis using Jedis (Thread-Safe, Multithreading)
 
-- /dynamodb: Dynamo Batch Insert (Thread-Safe, Multithreading)
-
--  
+- /dynamodb: Dynamo Batch Insert (Thread-Safe, Multithreading)  
